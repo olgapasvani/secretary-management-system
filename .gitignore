@@ -1,0 +1,14 @@
+# Μεταγλωττισμένα αρχεία αντικειμένου (Object files)
+*.o
+
+# Εκτελέσιμα αρχεία (Executables)
+main
+*.out
+*.exe
+
+# Αρχεία ρυθμίσεων IDE
+.vscode/
+
+# Αρχεία συστήματος λειτουργικού (π.χ. macOS/Windows)
+.DS_Store
+Thumbs.db
